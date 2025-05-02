@@ -1,0 +1,731 @@
+[
+  {
+    "01": {
+      "title": "Case 1: Brain CT Anatomy",
+      "scenarios": [
+        {
+          "id": "BrainCT_scenario1",
+          "title": "Gravida 3 Para 0 Abortion 2, 35 years old mother with increased risk for T-21 on quadruple marker (1:85) in the present pregnancy. Now the gestational age is 16w 1day as per the established EDD. Previous 2 first trimester pregnancy loss are noted. No other genetic testing was done for the abortus."
+        },
+        {
+          "id": "BrainCT_scenario2",
+          "title": "Gravida 2 Para 0 Abortion 1, 27 years old mother is housing balanced translocation between 13-14 chromosomes with history of low-lying posterior placenta with subchorionic hemorrhage at 14 weeks. Amniocentesis is scheduled at 17 weeks to check for Copy number variations and micro-deletions."
+        },
+        {
+          "id": "BrainCT_scenario3",
+          "title": "Patient presented with Gross polyhydramnios at 30 weeks (AFI 38 cm), cervical length is 2.7 cm, Maternal respiratory distress is noted. Progressive increase in the amniotic fluid volume is documented in the past 8 weeks with AFI increasing from 18 cm to 38 cm. Normal fetal stomach is well visualized, and no evidence of placental abnormalities is seen on evaluation by ultrasonography. Normal fetal growth velocity is documented in the previous scans. Now this pregnancy is being evaluated for Barter's syndrome and amnio-reduction."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Possible indications to go for Amniocentesis -",
+          "options": [
+            "Advanced maternal age (35 years or older)",
+            "Abnormal results from prenatal screening tests",
+            "Previous pregnancy with a genetic condition or birth defect",
+            "Family history of genetic disorders",
+            "Concerns regarding fetal abnormalities detected during ultrasound examination",
+            "Certain medical conditions in the parents that may increase the risk of genetic abnormalities in the fetus"
+          ],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q2",
+          "text": "Pre-procedure patient counselling (before invasive procedure and further testing)",
+          "options": [
+            "Are you aware of the reason for reference for a counseling session?",
+            "Have you received any prenatal screenings or genetic tests so far? If yes, what were the results?",
+            "Are there any medical conditions or birth defects that run in either of your families?",
+            "Are you able to understand the recommendation for invasive procedure, the utility of the testing, and the possible outcomes?",
+            "What are your concerns or fears about the procedure or its potential outcomes?",
+            "Are there any specific questions or information you would like to discuss further before proceeding with amniocentesis?",
+            "How do you envision using the information obtained from the amniocentesis results in your pregnancy planning or decision-making process?"
+          ],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "Choose the right needle – Gauge and Length",
+          "options": ["18 Gauge", "20 Gauge", "22 Gauge"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "Pre-procedure fetal heart rate documentation",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "Choose your target",
+          "options": ["Placenta-free", "Cord-free", "Fetus-free"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "02": {
+      "title": "Case 2: Chorionic Villous Sampling",
+      "scenarios": [
+        {
+          "id": "Chorionic Villous Sampling_scenario1",
+          "title": "Gravida 3 Para 1 Abortion 1, previous child is affected by Spino muscular Atrophy. Second degree consanguineous marital status of the couple is noted. Both are carriers for heterozygous deletion in SMN-1 gene. CVS is scheduled at 13 weeks of gestation to check if the Fetus is affected."
+        },
+        {
+          "id": "Chorionic Villous Sampling_scenario2",
+          "title": "Gravida 3 Para 2 Living 0, previous 2 babies born with her first marriage died in their neonatal period due X-linked recessive chronic granulomatous disease. She is non-consanguineously  married second time. Carrier status of the mother is confirmed by Sanger sequencing. CVS is scheduled of USG normal 13 weeks Fetus to check if it is affected."
+        },
+        {
+          "id": "Chorionic Villous Sampling_scenario3",
+          "title": "Gravida 3 Para 1 Living 1 Abortion 1, Non Consanguineous married couple with first male baby affected by Duchen’s muscles dystrophy. Baby developed progressive muscle weakness and died at the age of 8 years. One first trimester pregnancy loss is noted. Multiplex Ligation dependent Probe Amplification (MLPA) of the index child showed deletion in the dytrophin gene. CVS is schedule d to check if the on going pregnancy is affected or not."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Possible indications to go for CVS.",
+          "options": [" Advanced maternal age (35 years or older)", "Abnormal results from prenatal screening tests", "Previous pregnancy with a genetic condition or birth defect","Family history of genetic disorders","Concerns regarding fetal abnormalities detected during ultrasound examination","Certain medical conditions in the parents that may increase the risk of genetic abnormalities in the fetus"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q2",
+          "text": "Pre-procedure patient counselling (before invasive procedure and further testing).",
+          "options": ["Are you aware of the reason for reference for a counseling session?", "Have you received any prenatal screenings or genetic tests so far? If yes, what were the results?", "Are there any medical conditions or birth defects that run in either of your families?","Are you able to understand the recommendation for invasive procedure, the utility of the testing and the possible outcomes?","What are your concerns or fears about the procedure or its potential outcomes?"," Are there any specific questions or information you would like to discuss further before proceeding with CVS?","How do you envision using the information obtained from the CVS results in your pregnancy planning or decision-making process?"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "image":"",
+          "text": "",
+          "options": ["CHOOSE YOUR TARGET (Placenta – DIRECT ACCESS mandatory)"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "The 3 variables – (target, probe, needle) - fix 2 of 3 variables",
+          "options": [" Target", "Probe","needle"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "Choose entry point and angulation- aim for the thickest portion of placenta and a good tangential entry",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "",
+          "options": ["Local anesthesia"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "Get the needle into the sector under the probe (note to look at the abdomen and not at the screen till the needle is under the probe)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "",
+          "options": ["Re-orient with the target at each interface and advance with controlled, sharp jabs"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "",
+          "options": ["Site the needle inside the placenta"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "",
+          "options": ["Site the needle inside the placenta"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q11",
+          "text": "",
+          "options": ["3-way connector to aspirate the villi"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q12",
+          "text": "",
+          "options": ["Short/long cut technique avoiding chorion breach and myometrium aspiration"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["Transferring the villi and checking for adequacy"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q14",
+          "text": "",
+          "options": ["Watch the needle all the way out"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "03": {
+      "title": "Case 3: Bipolar cord coagulation",
+      "scenarios": [
+        {
+          "id": "Bipolar cord coagulation_scenario1",
+          "title": "Primi Gravida with MCMA Pregnancy at 20 weeks of gestation showing Twin reverse arterial perfusion. Absent upper torso of parasite twin with reverse direction blood flow in the umbilical blood vessels is ensured by ultrasound. Cord coagulation/ resection using bipolar cord coagulation is planned."
+        },
+        {
+          "id": "Bipolar cord coagulation_scenario2",
+          "title": "Patient with Primi -Gravida with mono chorionic Di amniotic pregnancy at 20 weeks of gestation with one of the twin showing severe growth restriction (16 weeks by biometry). Effective fetal weight is less than 1 percentile. Another fetus is structurally normal. Selective Fetal reduction of SGA Fetus is planned by cord coagulation/ resection using bipolar cord coagulation."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Choose your entry point.",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q2",
+          "text": "Introduce 18g needle under usg guidance",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "Introduce the guidewire for a sufficient length outside the needle",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "",
+          "options": ["Withdraw the needle w/o"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "Scan to identify the cord insertion point of the fetus to be reduced",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "Trocar placement under ultrasound guidance using seldinger thechnique / direct entry",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "Introduce the optical bipolar forceps through the trocar",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "Visualize the cord insertion and approach it",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "Touch & withdraw",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "Touch & withdraw",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q11",
+          "text": "Open - grasp – push – close – pull technique",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q12",
+          "text": "system readied for coagulation",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "virtual coagulation for 10-15 sec till you see bubbles (virtual)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q14",
+          "text": "open prongs, release the cord",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q15",
+          "text": "Repeat steps 9-12 at another site close to the first",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q16",
+          "text": "",
+          "options": ["Close the prongs and withdraw them into the hub"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q17",
+          "text": "",
+          "options": ["Remove the bipolar forceps"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "04": {
+      "title": "Case 4: Interstitial laser Coagulation",
+      "scenarios": [
+        {
+          "id": "Interstitial laser Coagulation_scenario1",
+          "title": "Primi Gravida with MCDA pregnancy at 16 weeks of gestation, one of the fetus is showing anterior body wall defect with gross gastroschisis and ectopic cardia. Selective reduction of the abnormal fetus is planned by ultrasound guided interstitial laser coagulation of umbilical vessels at the fetal attachment of abnormal fetus. Amniocentesis of the surviving twin is also planned."
+        },
+        {
+          "id": "Interstitial laser Coagulation_scenario2",
+          "title": "Primi Gravida with MCDA pregnancy at 13 weeks of gestation, one of the fetus is Craniorachischisis with anencephaly . Selective reduction of the abnormal fetus is planned by ultrasound guided interstitial laser coagulation of umbilical vessels at the fetal attachment of abnormal fetus. Couple denied testing of the normal fetus."
+        },
+        {
+          "id": "Interstitial laser Coagulation_scenario2",
+          "title": "Primi Gravida with MCDA pregnancy at 18 weeks of gestation, one of the fetus is shows sonological features of tetralogy of Fallot. Qf-PCR testing revealed T-21 in the affected fetus. Another fetus is structural normal and shows no aneuploidy. Selective reduction of the abnormal fetus is planned by ultrasound guided interstitial laser coagulation of umbilical vessels at the fetal attachment of abnormal fetus."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Pre-procedure – the setting & the set",
+          "image":"",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q2",
+          "text": "",
+          "options": ["Pre-fix laser fiber (if needed)"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "Mention your target & plan route of entry",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "",
+          "options": ["Fetal paralysis if indicated"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "",
+          "options": [" Local anesthesia"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "Needle entry",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "Laser fibre entry",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "Switch laser to ready mode",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "Coagulation using foot control – short 5-10 sec bursts, starting at 15-20 watts",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "Confirm avascularity",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q11",
+          "text": "",
+          "options": ["Switch laser to standby mode"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q12",
+          "text": "",
+          "options": ["Withdraw laser"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": [" Watch the needle all the way out"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "05": {
+      "title": "Case 5: Fetal Reduction",
+      "scenarios": [
+        {
+          "id": "Fetal Reduction_scenario1",
+          "title": "Elderly Primi Gravida conceived after ovulation stimulation and intra uterine insemination is housing tri- chorionic tri amniotic triplets pregnancy. All the fetuses are normal at 13 weeks scan. In the view of risk for preterm labor, selective fetal reduction of the upper pole fetus is planned."
+        },
+        {
+          "id": "Fetal Reduction_scenario2",
+          "title": "Di-chorionic di-amniotic twin pregnancy with 14 weeks of gestation. One of the fetus is showing gross megacystis (Cranio caudal U.bladder diameter is 40 mm) with bilateral hydronephrosis. Fetal reduction of the abnormal fetus is planned. "
+        },
+        {
+          "id": "Fetal Reduction_scenario2",
+          "title": "Di-chorionic di-amniotic twin pregnancy with 13 weeks of gestation. One of the fetus is showing omphalocele. Fetal reduction of the abnormal fetus is planned."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Possible indications to go for Fetal Reduction",
+          "options": ["Higher order, Multi Fetal Pregnancy, triplets and higher order"," Elderly Mothers, having maternal dieases like Diabetes and Cardiac","Twins or Higher order pregancy with Previous caesraian section","Twins or Higher orders having Fetal malformation in one baby","Family Planning or already existing child with this time she is having multi fetal pregnancy","To Prevent pre term birth in multi fetal gestation","Conception following Myomectomy"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q2",
+          "text": "Counseling before fetal reduction",
+          "options": [" What led you to consider fetal reduction?","Have you received any prenatal testing or screenings that have indicated a need for fetal reduction?","Have you explored all available options and alternatives to fetal reduction?","Have you fully explored and understood the potential risks and benefits of fetal reduction?"," Do you have any questions or uncertainties about the process that you would like to discuss?","Have you discussed your decision with loved ones or sought support from a healthcare professional?"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "THE SELDINGER TECHNIQUE STATION",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "CHOOSE YOUR ENTRY POINT",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "INTRODUCE 18G NEEDLE UNDER USG GUIDANCE",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "INTRODUCE THE GUIDEWIRE FOR A SUFFICIENT LENGTH OUTSIDE THE NEEDLE",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "WITHDRAW THE NEEDLE W/O",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "SCAN TO IDENTIFY THE CORD INSERTION POINT OF THE FETUS TO BE REDUCED",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "TROCAR PLACEMENT UNDER ULTRASOUND GUIDANCE USING SELDINGER THECHNIQUE / DIRECT ENTRY",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "INTRODUCE THE OPTICAL BIPOLAR FORCEPS THROUGH THE TROCAR",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q11",
+          "text": "VISUALIZE THE CORD INSERTION AND APPROACH IT",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q12",
+          "text": "TOUCH & WITHDRAW",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "OPEN - GRASP – PUSH – CLOSE – PULL TECHNIQUE",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "SYSTEM READIED FOR COAGULATION",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "VIRTUAL COAGULATION FOR 10-15 SEC TILL YOU SEE BUBBLES (VIRTUAL)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "OPEN PRONGS, RELEASE THE CORD",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "REPEAT STEPS 9-12 AT ANOTHER SITE CLOSE TO THE FIRST",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "CLOSE THE PRONGS AND WITHDRAW THEM INTO THE HUB",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "REMOVE THE BIPOLAR FORCEPS",
+          "options": [""],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "06": {
+      "title": "Case 6: Fetal Shunt",
+      "scenarios": [
+        {
+          "id": "Fetal Shunt_scenario1",
+          "title": "Gravida 2 Abortion1, Mid trimester IUD in the previous pregnancy noted. Cause is not known. Present pregnancy at 22 weeks of gestation showing left sided pleural effusion. In-spite of 2 attempts of thoracocentesis there is re-accumulation of the fluid in the left pleural cavity. Deployment of thoraco-amniotic shunt is planned."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "image":"",
+          "image2":""
+        },
+        {
+          "id": "q2",
+          "text": "",
+          "options": ["Understand the placement of the coils – single coil in the fetal cavity and double coil in the amniotic cavity"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "",
+          "options": ["Understand the significance of the timing of stent assembly"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "Fetal paralysis+analgesic cocktail (virtual)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "",
+          "options": ["Local anesthetic (must – 13 g needle)"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "The assistant has to assemble the stent at this point",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "Load the guidewire on to the stent from the double coil side",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "load the positioner on to the guidewire from the other end till it meets the stent and keep the assembly ready",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "Introduce the needle into the cavity to be shunted",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "",
+          "options": ["Withdraw the needle fully & cover the hub of the needle to prevent decompressing the cavity"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q11",
+          "text": "",
+          "options": ["assistant - load the needle with the stent (make sure that some part of the positioner goes inside the needle)"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q12",
+          "text": "",
+          "options": ["assistant pulls out the guidewire"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["Assistant has to push the positioner into the hub carefully upto the first black mark – watch the ultrasound monitor - inner coil gets deployed"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["Don’t push the positioner any further – rather pull the needle out slowly with rotary movements till the needle tip is in the amniotic cavity"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["If there is enough space between the fetal skin and the myometrium/placenta, pull the positioner to the second black mark (the outer coild get deployed into amniotic cavity)"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": [" If not, tilt the needle to a pocket of fluid nearby and push the positioner to the blackmark instead of pulling the needle back (pulling the needle back will end up in a thoraco-myometrial or thoraco-placental shunt"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "REPEAT STEPS 9-12 AT ANOTHER SITE CLOSE TO THE FIRST",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["Confirm correct placement of both ends of the stent"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q13",
+          "text": "",
+          "options": ["Pull out the entire assembly"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  },
+  {
+    "07": {
+      "title": "Case 7: Seldinger technique",
+      "scenarios": [
+        {
+          "id": "Seldinger technique_scenario1",
+          "title": "This is a technique to get an instrumentation access to the uterine cavity for various fetal therapeutic procedures. In built unidirectional valve system in the catheter ensures absence of amniotic fluid leak during the therapeutic procedures.  "
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text":"Remember the “ngs” technique",
+          "image":""
+        },
+        {
+          "id": "q2",
+          "text": "Choose your entry point on the abdomen (dictated by the target)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q3",
+          "text": "Introduce 18g needle under usg guidance",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q4",
+          "text": "Introduce the guidewire for a sufficient length beyond the needle",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q5",
+          "text": "",
+          "options": ["Withdraw the needle w/o pulling out the guidewire"],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q6",
+          "text": "Make a small knick close to the guidewire, with a no.11 blade (virtual)",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q7",
+          "text": "Introduce the vascular access/introducer set through the guidewire, till the skin",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q8",
+          "text": "Controlled, firm entry into the amniotic cavity, always guiding the introducer in the direction of your target",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q9",
+          "text": "Visualise the sheath tip at a comfortable depth inside the amniotic fluid",
+          "options": [""],
+          "correctAnswer": ""
+        },
+        {
+          "id": "q10",
+          "text": "",
+          "options": ["Withdraw the guidewire"],
+          "correctAnswer": ""
+        }
+      ]
+    }
+  }
+]
+
+
+
+
+
